@@ -2,9 +2,9 @@
  
 ## Steps
 
-1) Pesquisar as cotações das moedas e ouro;
-2) Buscar a informação no site;
-3) Armazenar as informações;
+1) Pesquisar as cotações das moedas e ouro
+2) Buscar a informação no site
+3) Armazenar as informações
 4) Preencher a cotação em uma planilha excel
 5) Atualizar planilha com preços novos 
 
