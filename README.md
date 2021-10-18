@@ -11,7 +11,7 @@
 
 ## Install Selenium
 
-* Run in one of the cells of the Jupyter `pip install –U selenium`
+* Run in one of the cells of the Jupyter `!pip install –U selenium`
 
 ## Install selenium webdriver
 
